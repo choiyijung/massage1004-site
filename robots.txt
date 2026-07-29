@@ -1,4 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://massage1004-site.netlify.app/sitemap.xml
+Sitemap: https://masaji1004.shop/sitemap.xml
+
