@@ -1,5 +1,5 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://masaji1004.shop/sitemap.xml
+Sitemap: https://djcj1004.shop/sitemap.xml
 
